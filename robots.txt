@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /up/
+Sitemap: https://gh.becauseofprog.fr/sitemap.xml
